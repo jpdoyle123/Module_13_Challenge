@@ -6,7 +6,9 @@ This challenge was separated into three parts:
   3. optimizing the model
 
 
-1. Preprocessing data for a neural network model
+**1. Preprocessing data for a neural network model**
+
+
 <img width="1137" alt="Screen Shot 2022-03-29 at 2 19 07 PM" src="https://user-images.githubusercontent.com/95647683/160678952-60117d8d-439a-43a5-9d50-ad0fd6ae98dd.png">
 
 <img width="1155" alt="Screen Shot 2022-03-29 at 2 19 16 PM" src="https://user-images.githubusercontent.com/95647683/160678969-d0d9babd-e7a4-4a16-943c-6d92c3dcabca.png">
@@ -18,3 +20,11 @@ This challenge was separated into three parts:
 <img width="1142" alt="Screen Shot 2022-03-29 at 2 19 52 PM" src="https://user-images.githubusercontent.com/95647683/160679021-41311e12-6990-424e-988c-389a5a4b9fe6.png">
 <img width="1132" alt="Screen Shot 2022-03-29 at 2 19 59 PM" src="https://user-images.githubusercontent.com/95647683/160679038-6040b1b9-3a7a-4cff-884c-4a2fdfb9067e.png">
 <img width="1151" alt="Screen Shot 2022-03-29 at 2 20 05 PM" src="https://user-images.githubusercontent.com/95647683/160679044-d30f2325-2d3d-414b-9517-814bfb7d4d4e.png">
+
+
+**2.Using the model-fit-predict pattern to compile and evaluate a binary classification model **
+
+
+<img width="1145" alt="Screen Shot 2022-03-29 at 2 22 09 PM" src="https://user-images.githubusercontent.com/95647683/160679325-65928e29-0ee9-4f02-937f-3c0aed0bf506.png">
+<img width="1134" alt="Screen Shot 2022-03-29 at 2 22 16 PM" src="https://user-images.githubusercontent.com/95647683/160679339-3dc1077e-06c4-40ec-b8a1-0e345957739c.png">
+<img width="1134" alt="Screen Shot 2022-03-29 at 2 22 25 PM" src="https://user-images.githubusercontent.com/95647683/160679348-e98d099d-88e0-4869-a3eb-5bf08bbf54f1.png">
