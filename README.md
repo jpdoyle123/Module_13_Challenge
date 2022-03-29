@@ -28,3 +28,26 @@ This challenge was separated into three parts:
 <img width="1145" alt="Screen Shot 2022-03-29 at 2 22 09 PM" src="https://user-images.githubusercontent.com/95647683/160679325-65928e29-0ee9-4f02-937f-3c0aed0bf506.png">
 <img width="1134" alt="Screen Shot 2022-03-29 at 2 22 16 PM" src="https://user-images.githubusercontent.com/95647683/160679339-3dc1077e-06c4-40ec-b8a1-0e345957739c.png">
 <img width="1134" alt="Screen Shot 2022-03-29 at 2 22 25 PM" src="https://user-images.githubusercontent.com/95647683/160679348-e98d099d-88e0-4869-a3eb-5bf08bbf54f1.png">
+<img width="912" alt="Screen Shot 2022-03-29 at 2 26 08 PM" src="https://user-images.githubusercontent.com/95647683/160680043-3ffa31e8-4b58-4e17-beb5-e061253743aa.png">
+
+
+
+
+**3. Optimization of the model**
+
+For optimizing the model, we tried to different techniques. For the first, I altered my activation function from the 'relu' function to the 'tanh' function to see if it was more of an optimal function. Although 'relu' is the more advanced function, tanh seems to perform better. However, this could also be because I increased the number of neurons in each layer, as well as added more layers. 
+
+<img width="675" alt="Screen Shot 2022-03-29 at 2 26 47 PM" src="https://user-images.githubusercontent.com/95647683/160680292-5d6d6cd8-1d6c-4587-87e1-71f7bd3e5258.png">
+
+
+
+For the second model, we used 'relu' again, however, with 6 hidden layers. 
+<img width="687" alt="Screen Shot 2022-03-29 at 2 27 01 PM" src="https://user-images.githubusercontent.com/95647683/160680311-93be4684-c5d1-411c-9fc8-e143d5008d21.png">
+
+These are the results:
+<img width="1140" alt="Screen Shot 2022-03-29 at 2 28 20 PM" src="https://user-images.githubusercontent.com/95647683/160680420-93dbea89-ceb9-4aa8-90b1-17fdb1a4bdda.png">
+<img width="1148" alt="Screen Shot 2022-03-29 at 2 28 26 PM" src="https://user-images.githubusercontent.com/95647683/160680434-280229f8-3db2-4553-9cad-5b27524e80ce.png">
+
+
+
+
